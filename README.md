@@ -1,6 +1,6 @@
-# vins-fusion-gpu-and-egp-planner-Xavier-NX (Ubuntu 20.04)
+# vins-fusion-gpu-and-ego-planner-Xavier-NX (Ubuntu 20.04)
 
-Installation step of vins-fusion gpu version on Nvidia Jetson TX2 and Jetson Nano ( JP 4.2.2)
+Installation step of vins-fusion gpu and ego-planner on Nvidia Xavier NX( JP 5.1)
 
 # Prerequisites
 
